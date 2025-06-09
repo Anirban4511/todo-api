@@ -115,7 +115,7 @@ The API returns appropriate HTTP status codes:
 
 Create a `.env` file with the following variables:
 ```
-PORT=5000
+PORT=your_port_here
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
